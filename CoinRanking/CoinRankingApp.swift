@@ -2,7 +2,7 @@
 //  CoinRankingApp.swift
 //  CoinRanking
 //
-//  Created by Mike Kihiu on 03/03/2025.
+//  Created by Martin Chirchir on 02/03/2025.
 //
 
 import SwiftUI
