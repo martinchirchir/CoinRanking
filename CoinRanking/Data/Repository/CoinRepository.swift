@@ -46,7 +46,7 @@ final class CoinRepository: CoinRepositoryProtocol {
 struct CoinsApi {
     
     private let url = "https://api.coinranking.com/v2/coins"
-    private let key: String? = nil
+    private let key: String? = "coinranking01d3f9b7a352ce8d11c7db0758354764bb45bc8ca3e1e9e3"
     
     func createRequest() throws -> URLRequest {
         guard let key else {
